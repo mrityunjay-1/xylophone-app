@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "3bb71622ab8a20c7df19265c6f04aeb659cf436e6d493450df527dffffe06e8b"
+build_start_time: [1690181307, 607949000]
+build_end_time: [1690181308, 304923000]
+inputs:
+  "/Users/mrityunjay/XCodeProjects/Xylophone-iOS13/Xylophone/AppDelegate.swift": [1690177162, 555706166]
+  "/Users/mrityunjay/XCodeProjects/Xylophone-iOS13/Xylophone/SceneDelegate.swift": [1690177162, 571562621]
+  "/Users/mrityunjay/XCodeProjects/Xylophone-iOS13/Xylophone/ViewController.swift": [1690181307, 328155884]
